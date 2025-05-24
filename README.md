@@ -1,6 +1,6 @@
 # Terms and Conditions for Black Hole
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 24 May 2025
 
 These Terms govern your use of the mobile application **Black Hole**. By using the app, you agree to abide by these terms.
 
