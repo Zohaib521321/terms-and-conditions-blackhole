@@ -59,11 +59,7 @@ We reserve the right to:
 
 ---
 
-## 8. Governing Law
 
-These Terms are governed by the laws of [Your Country]. Any disputes will be handled in the jurisdiction of [Your Country].
-
----
 
 ## 9. Contact Us
 
